@@ -46,3 +46,5 @@ Power BI dashboard screenshots are included for easy viewing.
 - Cleaned Excel file
 - Pivot table screenshots
 - Power BI dashboard screenshots
+
+https://github.com/fathimakhadheeja2004-dev/sales-data-analysis/edit/main/README.md
